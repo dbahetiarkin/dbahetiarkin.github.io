@@ -75,7 +75,7 @@ The dashboard definitions will be update on a regular basis based on different u
 Users can leverage the exisiting dashboard definitions to create dashboards and gain insights into their environment.
 
 ## Demo
-Following is a link to a shot demo covering the funconalities of the Dashboard Exchange
+Following is a link to a short demo covering the functionalities of the Dashboard Exchange:
 
 [Demo link](https://onevmw-my.sharepoint.com/:v:/g/personal/dbaheti_vmware_com/EWdmNUAsUSFNoGUcLIZChCMBzO2Emhid6PJxdlH1M4bUtQ?e=O1ONpD)
 
