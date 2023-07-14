@@ -71,8 +71,8 @@ $ python3 export-dashboard.py -d my-vrni-setup-fqdn-or-ip -u admin@local -p MyVR
 This will export all the dashboard definition JSONs as separate files.
 
 ## Dashboard Definitions
-The dashboard definitions will be update on a regular basis based on different use-cases. Currently all the dashboard definitions have been kept under the pinboards folder under different categories.
-Users can leverage the exisiting dashboard definitions to create dashboards and gain insights into their environment.
+The dashboard definitions will be update on a regular basis based on different use-cases. Currently, all the dashboard definitions have been kept under the pinboards folder under different categories.
+Users can leverage the existing dashboard definitions to create dashboards and gain insights into their environment.
 
 ## Demo
 Following is a link to a short demo covering the functionalities of the Dashboard Exchange:
