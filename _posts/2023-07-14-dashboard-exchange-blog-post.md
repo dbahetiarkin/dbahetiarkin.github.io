@@ -14,8 +14,7 @@ So the goal of the dashboard/pinboard exchange is:
 2. vRNI 6.9.0 onwards we call them "Customizable Dashboards"
 
 ## Link to the Github repository to access the scripts and the definitions:
-
-```https://github.com/amolvaikar/vrni-dashboard-exchange```
+[Dashboard Exchange Github repository](https://github.com/amolvaikar/vrni-dashboard-exchange)
 
 ## How to use the scripts and the dashboard definitions:
 The script for creating the dashboards is written in Python and works with Python 3.
